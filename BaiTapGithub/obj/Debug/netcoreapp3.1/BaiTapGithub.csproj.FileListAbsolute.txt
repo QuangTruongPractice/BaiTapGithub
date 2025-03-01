@@ -1,0 +1,16 @@
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\bin\Debug\netcoreapp3.1\BaiTapGithub.exe
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\bin\Debug\netcoreapp3.1\BaiTapGithub.deps.json
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\bin\Debug\netcoreapp3.1\BaiTapGithub.runtimeconfig.json
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\bin\Debug\netcoreapp3.1\BaiTapGithub.runtimeconfig.dev.json
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\bin\Debug\netcoreapp3.1\BaiTapGithub.dll
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\bin\Debug\netcoreapp3.1\BaiTapGithub.pdb
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.csproj.AssemblyReference.cache
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.Form1.resources
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.csproj.GenerateResource.cache
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.GeneratedMSBuildEditorConfig.editorconfig
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.AssemblyInfoInputs.cache
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.AssemblyInfo.cs
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.csproj.CoreCompileInputs.cache
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.dll
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.pdb
+D:\2251052131truong\BaiTapGithub\BaiTapGithub\obj\Debug\netcoreapp3.1\BaiTapGithub.genruntimeconfig.cache
