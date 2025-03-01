@@ -36,11 +36,12 @@ namespace BaiTapGithub
             this.lbB = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtKetqua = new System.Windows.Forms.TextBox();
+            this.btnTru = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCong
             // 
-            this.btnCong.Location = new System.Drawing.Point(245, 179);
+            this.btnCong.Location = new System.Drawing.Point(278, 176);
             this.btnCong.Name = "btnCong";
             this.btnCong.Size = new System.Drawing.Size(75, 23);
             this.btnCong.TabIndex = 0;
@@ -52,14 +53,14 @@ namespace BaiTapGithub
             // 
             this.txtA.Location = new System.Drawing.Point(233, 56);
             this.txtA.Name = "txtA";
-            this.txtA.Size = new System.Drawing.Size(100, 23);
+            this.txtA.Size = new System.Drawing.Size(120, 23);
             this.txtA.TabIndex = 1;
             // 
             // txtB
             // 
             this.txtB.Location = new System.Drawing.Point(233, 94);
             this.txtB.Name = "txtB";
-            this.txtB.Size = new System.Drawing.Size(100, 23);
+            this.txtB.Size = new System.Drawing.Size(120, 23);
             this.txtB.TabIndex = 2;
             // 
             // lbA
@@ -93,14 +94,25 @@ namespace BaiTapGithub
             // 
             this.txtKetqua.Location = new System.Drawing.Point(233, 137);
             this.txtKetqua.Name = "txtKetqua";
-            this.txtKetqua.Size = new System.Drawing.Size(100, 23);
+            this.txtKetqua.Size = new System.Drawing.Size(120, 23);
             this.txtKetqua.TabIndex = 6;
+            // 
+            // btnTru
+            // 
+            this.btnTru.Location = new System.Drawing.Point(197, 176);
+            this.btnTru.Name = "btnTru";
+            this.btnTru.Size = new System.Drawing.Size(75, 23);
+            this.btnTru.TabIndex = 7;
+            this.btnTru.Text = "Trừ";
+            this.btnTru.UseVisualStyleBackColor = true;
+            this.btnTru.Click += new System.EventHandler(this.btnTru_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnTru);
             this.Controls.Add(this.txtKetqua);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbB);
@@ -124,6 +136,7 @@ namespace BaiTapGithub
         private System.Windows.Forms.Label lbB;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtKetqua;
+        private System.Windows.Forms.Button btnTru;
     }
 }
 
